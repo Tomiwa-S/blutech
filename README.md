@@ -15,6 +15,8 @@ install the dependencies, run `npm install`
 to start the project run  `npm run dev`
 and navigate to your localhost, usually port 3000 - localhost:3000
 
+A demo of the site is available at ![demoSite](https://blutech-gamma.vercel.app/)
+However, API calls aren't granted because the API isn't HTTPs secure
 
 ## Other details
 To apply a filter, hover hover a column, select the filter option and apply the filter you need as illustrated in the diagram below
