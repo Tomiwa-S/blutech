@@ -5,7 +5,7 @@ Node.js and npm (Node Package Manager)
 
 
 ## Running the project
-clone this repository by running `git clone https://github.com/your-username/your-repository.git`
+clone this repository by running `git clone https://github.com/Tomiwa-S/blutech.git`
 or simply download and unzip
 
 navigate into the repo master directory
