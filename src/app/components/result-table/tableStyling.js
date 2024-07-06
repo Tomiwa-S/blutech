@@ -77,5 +77,9 @@ export const tableStyle = {
 
             '& .MuiDataGrid-cell:focus-within': {
                 outline: 'none',
+            },
+            ,
+            '& .css-z9kl1x .MuiDataGrid-filler, .MuiDataGrid-filler ':{
+                backgroundColor:'#F0F4FE',
             }
         }
